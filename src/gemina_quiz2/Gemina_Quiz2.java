@@ -102,6 +102,6 @@ public class Gemina_Quiz2 {
         }
     }
     public static void NumeroTwo (int [] numerotwo ){
-        
+        System.out.println("heheh");
     }
 }
